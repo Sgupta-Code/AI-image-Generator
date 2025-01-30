@@ -27,3 +27,5 @@ dist-ssr
 /server/node_modules
 /client/.env
 /server/.env
+/client/vite.config.js
+/client/eslint.config.js
